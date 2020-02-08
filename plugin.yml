@@ -1,0 +1,5 @@
+name: Camera
+version: "1.0.0"
+api: [3.11.0]
+author: Luna
+main: FabrikTeam\Camera\Camera
