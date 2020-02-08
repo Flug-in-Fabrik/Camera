@@ -1,4 +1,4 @@
-# Tr-Camera
+# Camera
 플러그인 이름 : Camera
 
 플러그인 버전 : v1.0.0
