@@ -5,6 +5,7 @@ namespace FabrikTeam\Camera;
 use pocketmine\player\Player;
 use pocketmine\Server;
 use pocketmine\plugin\PluginBase;
+use pocketmine\event\Listener;
 use pocketmine\block\{Block, BlockFactory};
 use pocketmine\item\{Item, ItemFactory, ItemBlock, enchantment\Enchantment, enchantment\EnchantmentInstance};
 use pocketmine\utils\Config;
